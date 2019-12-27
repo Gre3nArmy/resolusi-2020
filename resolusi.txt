@@ -2,3 +2,4 @@ Resolusi di Tahun 2020
 - Membangun Usaha 
 - Membuat CV
 - Belajar website
+- Belajar Flutter
